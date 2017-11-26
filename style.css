@@ -16,6 +16,7 @@ body
     margin-right: auto;
     margin-left: auto;
     background-color: #fff;
+    border-radius:15px;
 }
 
 .content .content-top
